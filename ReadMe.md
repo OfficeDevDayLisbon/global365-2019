@@ -1,4 +1,4 @@
-#Global 365 Developer Bootcamp Lab List
+# Global 365 Developer Bootcamp Lab List
 
 Building Microsoft Graph Applications
 https://github.com/microsoftgraph/msgraph-training-building-apps/blob/master/Lab.md
